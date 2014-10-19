@@ -1,0 +1,49 @@
+* {
+	font-family: sans-serif;
+}
+
+div {
+	border-radius: 5px;
+	border: 3px solid purple;
+	height: auto;
+	width: auto;
+	background-color: #ddaef2;
+}
+
+p {
+	text-align: center;
+	font-size: 24px;
+}
+
+#header {
+	position: fixed;
+    z-index: 1;
+	width: 98.5%;
+}
+
+.left {
+	float: left;
+	width: 19%;
+	height: 150px;
+	margin-top: 180px;
+	position: relative;
+}
+
+.right {
+    float: right;
+	width: 79%;
+	margin-top: 180px;
+	padding-left: 10px;
+}
+
+#footer {
+	clear: both;
+	height: 8%;
+	width: 98%;
+	padding-top: 10px;
+}
+
+.left, .right {
+	min-height: 100px;
+	height: auto;
+}
