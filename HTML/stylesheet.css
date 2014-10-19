@@ -1,0 +1,21 @@
+p {
+	color: red;
+}
+body {
+	color:red;
+	font-size: 30px;
+}
+table {
+    border: 1px solid black;
+	padding: 10px;
+}
+tr {
+    color: white;
+}   
+td {
+	padding: 10px;
+	border: 2px solid blue;
+}
+div {
+    background-color: green;
+}   
