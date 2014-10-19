@@ -8,6 +8,7 @@ body {
 table {
     border: 1px solid black;
 	padding: 10px;
+	font-family: cursive;
 }
 tr {
     color: white;
@@ -18,4 +19,22 @@ td {
 }
 div {
     background-color: green;
-}   
+	height: 200px;
+	width: 300px;
+	margin: auto;
+	text-align: center;
+}  
+h1 {
+	background-color: #99a123;
+	font-family: sans-serif;
+}
+h3 {
+	background-color: #8b2a4c;
+	font-family: serif;
+}
+a {
+	text-decoration: none;
+	margin: auto;
+	text-align: center;
+	width: 50px;
+}
